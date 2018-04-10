@@ -1,0 +1,11 @@
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\bin\Debug\netstandard2.0\IntentServiceTest.deps.json
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\bin\Debug\netstandard2.0\IntentServiceTest.dll
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\bin\Debug\netstandard2.0\IntentServiceTest.pdb
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\obj\Debug\netstandard2.0\IntentServiceTest.csprojResolveAssemblyReference.cache
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\obj\Debug\netstandard2.0\IntentServiceTest.csproj.CoreCompileInputs.cache
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\obj\Debug\netstandard2.0\IntentServiceTest.App.xaml.g.cs
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\obj\Debug\netstandard2.0\IntentServiceTest.MainPage.xaml.g.cs
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\obj\Debug\netstandard2.0\IntentServiceTest.AssemblyInfoInputs.cache
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\obj\Debug\netstandard2.0\IntentServiceTest.AssemblyInfo.cs
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\obj\Debug\netstandard2.0\IntentServiceTest.dll
+C:\VS_WorkSpace\IntentServiceTest\IntentServiceTest\IntentServiceTest\obj\Debug\netstandard2.0\IntentServiceTest.pdb
